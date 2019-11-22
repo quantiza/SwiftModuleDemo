@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftModuleDemo_Example' do
+  pod 'SwiftModuleDemo', :path => '../'
+
+  target 'SwiftModuleDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
