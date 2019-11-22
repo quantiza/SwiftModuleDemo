@@ -1,0 +1,16 @@
+PODS:
+  - SwiftModuleDemo (0.1.0)
+
+DEPENDENCIES:
+  - SwiftModuleDemo (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftModuleDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftModuleDemo: e3d1ea8535ac7f78065a3694a88167d79189da6a
+
+PODFILE CHECKSUM: 0a90f5acd46a686460a72a7750223b467122f50f
+
+COCOAPODS: 1.7.5
